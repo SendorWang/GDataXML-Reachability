@@ -1,0 +1,33 @@
+{
+    "data":[
+        {
+            "name":"xxz",
+            "sex":"boy",
+            "age":"26",
+            "course":""
+        },
+        {
+            "name":"zd",
+            "sex":"girl",
+            "age":"24",
+            "course":
+            [
+                {
+                    "time":"2015.08.15",
+                    "math":"138",
+                    "chinese":"98",
+                    "english":"102"
+                },
+                {
+                    "time":"2015.09.15",
+                    "math":"140",
+                    "chinese":"88",
+                    "english":"112"
+                }
+            ]
+        }
+     ],
+     
+    "code":"1",
+    "msg":"返回成功"
+}

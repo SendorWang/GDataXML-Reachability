@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--版本号，编码-->
+<root>
+    <infoList>
+        <info>
+            <name>xxz</name>
+            <sex>boy</sex>
+            <age>25</age>
+        </info>
+        <info>
+            <name>zd</name>
+            <sex>girl</sex>
+            <age>24</age>
+            <course>
+                <math>98</math>
+                <english>75</english>
+                <chinese>88</chinese>
+            </course>
+        </info>
+    </infoList>
+    
+</root>
